@@ -8,6 +8,9 @@
   <artifactId>webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+<description>Demo maven Project for traning</description>
+  
+  
 
   <name>webapp Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
