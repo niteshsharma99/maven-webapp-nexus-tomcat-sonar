@@ -8,7 +8,7 @@
   <artifactId>webapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-<description>Demo maven Project for real time traning</description>
+<description>Demo maven Project for traning</description>
   
   
 
